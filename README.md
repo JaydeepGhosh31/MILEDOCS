@@ -1,2 +1,8 @@
-# MILEDOCS
-A Arduino-based project using an HC-SR04 ultrasonic sensor to measure distance. The system calculates and displays the distance to an object in real-time using serial output or an LCD display. Ideal for beginners exploring sensors and microcontroller interfacing.
+# The Electronics Projects' Repository
+
+## This repository has been made:
+- To store my projects involving programming a mictrocontroller.
+- To store my projects involving programming a sensor.
+- To store programs related to controlling some hardware like a Graphics Card like a RTX-4060.
+- To store programs related to electronics simulations of some kind.
+- To store programs related to controlling physical robots.
